@@ -6,13 +6,19 @@ body {
 
 .header {
   background-image: url(/Users/thomasbishop/Documents/Projects/Broadway/resources/images/the-flatiron-building.png);
+  color: white;
 }
 
 h1 {
   font-size: 70px;
   font-weight: bold;
+}
+
+a {
+  text-decoration:underline;
   color: white;
 }
+
 
 h2 {
   font-size: 32px;
@@ -28,9 +34,7 @@ h2 {
   font-size: 14px;
 }
 
-.scnd-header {
-  background-image: url(/Users/thomasbishop/Documents/Projects/Broadway/resources/images/the-flatiron-building.png);
-  color: white;
+.header h2{
   font-size: 23px
   font-weight: bold;
 }
