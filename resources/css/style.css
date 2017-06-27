@@ -1,0 +1,43 @@
+/* Broadway CSS */
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+.header {
+  background-image: url(/Users/thomasbishop/Documents/Projects/Broadway/resources/images/the-flatiron-building.png);
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.subheadings {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.descriptions {
+  font-size: 14px;
+}
+
+.scnd-header {
+  background-image: url(/Users/thomasbishop/Documents/Projects/Broadway/resources/images/the-flatiron-building.png);
+  color: white;
+  font-size: 23px
+  font-weight: bold;
+}
+
+.footer {
+  text-align: left;
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+}
